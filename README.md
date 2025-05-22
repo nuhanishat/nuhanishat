@@ -29,8 +29,8 @@ A full-stack encyclopedia platform to provide comprehensive profiles of contempo
 --> 
 ## Contact with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit%20My%20Profile-blue)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20My%20Repositories-black?logo=github)](https://github.com/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit%20My%20Profile-blue)](https://www.linkedin.com/in/nuhanishat27)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20My%20Repositories-black?logo=github)](https://github.com/nuhanishat)
 <!--
 **nuhanishat/nuhanishat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
