@@ -18,8 +18,10 @@ I leverage my data analysis, programming, and system design skills to deliver im
 
 ## Featured Projects:
 ### Nuha's Burgers: Burger making web game
-[![Nuha's Burgers](https://private-user-images.githubusercontent.com/49707671/406649155-20e53232-780e-4e85-95e3-063608c7a3c6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5Mzk1MjAsIm5iZiI6MTc0NzkzOTIyMCwicGF0aCI6Ii80OTcwNzY3MS80MDY2NDkxNTUtMjBlNTMyMzItNzgwZS00ZTg1LTk1ZTMtMDYzNjA4YzdhM2M2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIyVDE4NDAyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5OGUzODZlZjhjYTk2NTdhZWVlYzU2MTBlM2FkNDJlMmM0ZDZlOTdmNmRkYzQ2OTc4YTEwY2U5Njk0MTAyZTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CegItgI1Vz40g1O4_PyanGRzNCmKLqSht5VkedRbJIs)](https://github.com/nuhanishat/Nuhas-Burgers)
 A simple web application made using HTML/CSS and vanilla Javascript where you pick ingredients of choice to build a burger
+[![image](https://github.com/user-attachments/assets/cf447c26-929c-40e9-8766-aa7190d5810f)](https://github.com/nuhanishat/Nuhas-Burgers)
+
+
 
 
 <!--
